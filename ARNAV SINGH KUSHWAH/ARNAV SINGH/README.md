@@ -2,8 +2,8 @@
 
 ## Student Details
 
-* Name: Prathamesh kumar
-* Registration No.: 24MIP10034
+* Name: Arnav Singh Kushwah
+* Registration No.: 24BAI10416
 
 ## Chosen Software
 
